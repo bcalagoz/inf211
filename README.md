@@ -1,4 +1,4 @@
-# inf211
+# inf211 - Algorithms and Programming I
 Hi there! Welcome to my Github repository for the Algorithms and Programming I course that I completed at Gebze Technical University. I'm excited to share my coursework and assignments with you!
 
 Throughout the course, we covered a wide range of topics such as branching and iteration, string manipulation, functions, recursion, object-oriented programming, and much more. I've organized the repository into different folders, with each folder corresponding to a topic that we covered in the course.
